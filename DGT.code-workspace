@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../DGT"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../WEB"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Portfolio"
+	}
+}
