@@ -3,7 +3,7 @@ from random import randrange as rr
 import pygame
 pygame.init()
 
-res = xres, yres = 500, 500
+res = xres, yres = 1920, 1080
 screen = pygame.display.set_mode(res)
 
 class Player():
